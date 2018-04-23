@@ -18,3 +18,4 @@ D:\Sergey\EPAM\NET.S.2018.Struk.Test\Task5\bin\Debug\Task5.pdb
 D:\Sergey\EPAM\NET.S.2018.Struk.Test\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
 D:\Sergey\EPAM\NET.S.2018.Struk.Test\Task5\obj\Debug\Task5.dll
 D:\Sergey\EPAM\NET.S.2018.Struk.Test\Task5\obj\Debug\Task5.pdb
+D:\Sergey\EPAM\NET.S.2018.Struk.Test\Task5\obj\Debug\Task5.csprojResolveAssemblyReference.cache
