@@ -20,7 +20,7 @@ namespace Task2.Solution
             }
         }
 
-        internal abstract byte[] GenerateFileContent(int contentLength);
+        protected abstract byte[] GenerateFileContent(int contentLength);
 
         private void WriteBytesToFile(string fileName, byte[] content)
         {
