@@ -1,0 +1,9 @@
+D:\Sergey\EPAM\NET.S.2018.Struk.Test\Task1.Console\bin\Debug\Task1.Console.exe.config
+D:\Sergey\EPAM\NET.S.2018.Struk.Test\Task1.Console\bin\Debug\Task1.Console.exe
+D:\Sergey\EPAM\NET.S.2018.Struk.Test\Task1.Console\bin\Debug\Task1.Console.pdb
+D:\Sergey\EPAM\NET.S.2018.Struk.Test\Task1.Console\obj\Debug\Task1.Console.csproj.CoreCompileInputs.cache
+D:\Sergey\EPAM\NET.S.2018.Struk.Test\Task1.Console\obj\Debug\Task1.Console.exe
+D:\Sergey\EPAM\NET.S.2018.Struk.Test\Task1.Console\obj\Debug\Task1.Console.pdb
+D:\Sergey\EPAM\NET.S.2018.Struk.Test\Task1.Console\bin\Debug\Task1.Solution.dll
+D:\Sergey\EPAM\NET.S.2018.Struk.Test\Task1.Console\bin\Debug\Task1.Solution.pdb
+D:\Sergey\EPAM\NET.S.2018.Struk.Test\Task1.Console\obj\Debug\Task1.Console.csprojResolveAssemblyReference.cache

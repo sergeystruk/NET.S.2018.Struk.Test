@@ -1,0 +1,12 @@
+C:\Users\MIB\Desktop\23.11.2017\Task3.Console\bin\Debug\Task3.Console.exe.config
+C:\Users\MIB\Desktop\23.11.2017\Task3.Console\bin\Debug\Task3.Console.exe
+C:\Users\MIB\Desktop\23.11.2017\Task3.Console\bin\Debug\Task3.Console.pdb
+C:\Users\MIB\Desktop\23.11.2017\Task3.Console\obj\Debug\Task3.Console.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\23.11.2017\Task3.Console\obj\Debug\Task3.Console.exe
+C:\Users\MIB\Desktop\23.11.2017\Task3.Console\obj\Debug\Task3.Console.pdb
+D:\Sergey\EPAM\NET.S.2018.Struk.Test\Task3.Console\bin\Debug\Task3.Console.exe.config
+D:\Sergey\EPAM\NET.S.2018.Struk.Test\Task3.Console\bin\Debug\Task3.Console.exe
+D:\Sergey\EPAM\NET.S.2018.Struk.Test\Task3.Console\bin\Debug\Task3.Console.pdb
+D:\Sergey\EPAM\NET.S.2018.Struk.Test\Task3.Console\obj\Debug\Task3.Console.csproj.CoreCompileInputs.cache
+D:\Sergey\EPAM\NET.S.2018.Struk.Test\Task3.Console\obj\Debug\Task3.Console.exe
+D:\Sergey\EPAM\NET.S.2018.Struk.Test\Task3.Console\obj\Debug\Task3.Console.pdb
