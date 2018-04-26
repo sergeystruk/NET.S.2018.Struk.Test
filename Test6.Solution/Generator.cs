@@ -7,15 +7,25 @@ namespace Task6.Solution
     {
         public static IEnumerable<T> GenerateSequence(int size, T first, T second, Func<T, T, T> law)
         {
+            if (ReferenceEquals(law, null))
+            {
+                throw new ArgumentNullException(nameof(law));
+            }
+
+            return GenerateSequenceHelper(size, first, second, law);
+        }
+
+        private static IEnumerable<T> GenerateSequenceHelper(int size, T first, T second, Func<T, T, T> law)
+        {
             if (size < 2)
             {
                 throw new ArgumentException(nameof(size));
             }
-            
+
             yield return first;
             yield return second;
             T buffer = first;
-            
+
             for (int i = 2; i < size; i++)
             {
                 buffer = second;
