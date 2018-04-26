@@ -21,10 +21,10 @@ C:\Users\MIB\Desktop\23.11.2017\Task4.Tests\obj\Debug\Task4.Tests.pdb
 D:\Sergey\EPAM\NET.S.2018.Struk.Test\Task4.Tests\bin\Debug\Task4.Tests.dll
 D:\Sergey\EPAM\NET.S.2018.Struk.Test\Task4.Tests\bin\Debug\Task4.Tests.pdb
 D:\Sergey\EPAM\NET.S.2018.Struk.Test\Task4.Tests\bin\Debug\nunit.framework.dll
-D:\Sergey\EPAM\NET.S.2018.Struk.Test\Task4.Tests\bin\Debug\Task4.dll
-D:\Sergey\EPAM\NET.S.2018.Struk.Test\Task4.Tests\bin\Debug\Task4.pdb
 D:\Sergey\EPAM\NET.S.2018.Struk.Test\Task4.Tests\bin\Debug\nunit.framework.xml
 D:\Sergey\EPAM\NET.S.2018.Struk.Test\Task4.Tests\obj\Debug\Task4.Tests.csprojResolveAssemblyReference.cache
 D:\Sergey\EPAM\NET.S.2018.Struk.Test\Task4.Tests\obj\Debug\Task4.Tests.csproj.CoreCompileInputs.cache
 D:\Sergey\EPAM\NET.S.2018.Struk.Test\Task4.Tests\obj\Debug\Task4.Tests.dll
 D:\Sergey\EPAM\NET.S.2018.Struk.Test\Task4.Tests\obj\Debug\Task4.Tests.pdb
+D:\Sergey\EPAM\NET.S.2018.Struk.Test\Task4.Tests\bin\Debug\Task4.Solution.dll
+D:\Sergey\EPAM\NET.S.2018.Struk.Test\Task4.Tests\bin\Debug\Task4.Solution.pdb

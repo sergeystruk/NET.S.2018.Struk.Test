@@ -6,9 +6,10 @@ namespace Task3.Solution
     {
         public string Name { get; set; }
 
-        public Broker(string name)
+        public Broker(string name, Stock stock)
         {
             this.Name = name;
+            Register(stock);
         }
 
         public void Update(object sourse, StockInfoEventArgs eventArgs)
@@ -19,20 +20,22 @@ namespace Task3.Solution
                 Console.WriteLine("Банк {0} покупает евро;  Курс евро: {1}", this.Name, eventArgs.Euro);
         }
 
-        public void Register(Stock stock)
-        {
-            stock.CurrencySelled += Update;
-        }
-
-        public void Unregister(Stock stock)
-        {
-            stock.CurrencySelled -= Update;
-        }
-
         public void StopTrade(Stock stock)
         {
             Unregister(stock);
             stock = null;
         }
+
+        private void Register(Stock stock)
+        {
+            stock.CurrencySelled += Update;
+        }
+
+        private void Unregister(Stock stock)
+        {
+            stock.CurrencySelled -= Update;
+        }
+
+        
     }
 }

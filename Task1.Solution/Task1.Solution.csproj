@@ -40,8 +40,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CheckCases\CheckPasswordHasNoChars.cs" />
+    <Compile Include="CheckCases\CheckPasswordHasNoDigits.cs" />
+    <Compile Include="CheckCases\CheckPasswordIsBig.cs" />
+    <Compile Include="CheckCases\CheckPasswordIsEmpty.cs" />
+    <Compile Include="CheckCases\CheckPasswordIsSmall.cs" />
+    <Compile Include="ICheckCase.cs" />
     <Compile Include="IRepository.cs" />
-    <Compile Include="PasswordChecker.cs" />
     <Compile Include="PasswordCheckerService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SqlRepository.cs" />
